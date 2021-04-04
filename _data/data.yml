@@ -42,21 +42,16 @@ sidebar:
 
       - item: Cooking
         link:
-
+        
 career-profile:
     title: Career Profile
     summary: |
-      Professional in Biomedical Engineering with proﬁcient
-      knowledge in the area of data engineering with empha-
-      sis on machine learning. Enthusiastic about applying
-      my knowledge and skills in the digital transformation
-      of companies. Prominent for being empathetic, resilient
-      and passionate about learning. Excellent communicator,
-      with strong analytical skills, enjoyment of challenges
-      and problem solving. As well as organizational skills,
-      results-oriented team player, and with good interper-
-      sonal relationship management in multidisciplinary envi-
-      ronment
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     - degree: B.E Biomedical Engineering
       university: University ECCI
