@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: jonathan.juez@gmail.com
     phone: +57 320 380 77 68
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: datajuez
-    github: jjuez
+    github: jonathanjuez
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -34,17 +34,17 @@ sidebar:
 
       
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
         
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
       Professional in Biomedical Engineering with proﬁcient
       knowledge in the area of data engineering with empha-
@@ -57,7 +57,7 @@ career-profile:
       results-oriented team player, and with good interper-
       sonal relationship management in multidisciplinary envi-
       ronments
-education:
+ main education:
     - degree: B.E Biomedical Engineering
       university: University ECCI
       time: 2010 - 2016
